@@ -1,0 +1,26 @@
+14:25	Start Streaming Holding Screen
+-----------------------------------
+14:35	Live To Air
+(G)	-Game Info
+(G)	-Weather
+(G)	-Last 3 Games
+(G)	-Points Table
+(G)	-Team Lists
+(V)	-Break (Time Permitting)
+-----------------------------------
+14:45	Kickoff
+-----------------------------------
+	1st Half
+-----------------------------------
+	Half Time
+(G)	-Full Stats (If Available)
+	-Break (Time Permitting)
+-----------------------------------
+	2nd Half
+-----------------------------------
+	After Game
+(G)	-Full Stats (If Available)
+(V)	-Highlights
+(G)	-Next Weeks Games
+-----------------------------------
+	Off Air
