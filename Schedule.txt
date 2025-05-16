@@ -1,5 +1,4 @@
-14:25	Start Streaming Holding Screen 
-a	To The Internet
+14:25	Start Streaming To The Internet
 
 -----------------------------------
 
