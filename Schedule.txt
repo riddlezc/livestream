@@ -14,7 +14,7 @@
 -----------------------------------
 	Half Time
 (G)	-Full Stats (If Available)
-	-Break (Time Permitting)
+(V)	-Break (Time Permitting)
 -----------------------------------
 	2nd Half
 -----------------------------------
