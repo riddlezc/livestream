@@ -1,18 +1,11 @@
-14:25	Start Streaming To Internet
-
------------------------------------
-
-14:35	Live To Air
 (G)	-Game Info
 (G)	-Weather
-(G)	-Last 3 Games
-(G)	-Points Table
 (G)	-Team Lists
 (V)	-Break (Time Permitting)
 
 -----------------------------------
 
-14:45	Kickoff
+	Kickoff
 
 -----------------------------------
 
@@ -33,7 +26,6 @@
 	After Game
 (G)	-Full Stats (If Available)
 (V)	-Highlights
-(G)	-Next Weeks Games
 
 -----------------------------------
 
